@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/durew/AndroidStudioProjects/VenditOOP/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.114453125" />
+        <entry key="..\:/Users/durew/AndroidStudioProjects/VenditOOP/app/src/main/res/layout/activity_fullscreen.xml" value="0.13269927536231885" />
+        <entry key="..\:/Users/durew/AndroidStudioProjects/VenditOOP/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/durew/AndroidStudioProjects/VenditOOP/app/src/main/res/layout/activity_profile.xml" value="0.18718338399189463" />
+        <entry key="..\:/Users/durew/AndroidStudioProjects/VenditOOP/app/src/main/res/layout/activity_register.xml" value="0.3401268115942029" />
+        <entry key="..\:/Users/durew/AndroidStudioProjects/VenditOOP/app/src/main/res/layout/activity_shop.xml" value="0.19427083333333334" />
+        <entry key="..\:/Users/durew/AndroidStudioProjects/VenditOOP/app/src/main/res/layout/shopping_file.xml" value="0.25" />
+        <entry key="..\:/Users/sosza/OneDrive/Documents/Projects/COP 5339/VenditOOP/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.12081659973226239" />
+        <entry key="..\:/Users/sosza/OneDrive/Documents/Projects/COP 5339/VenditOOP/app/src/main/res/layout/activity_cart.xml" value="0.22946175637393768" />
+        <entry key="..\:/Users/sosza/OneDrive/Documents/Projects/COP 5339/VenditOOP/app/src/main/res/layout/activity_checkout.xml" value="0.33" />
+        <entry key="..\:/Users/sosza/OneDrive/Documents/Projects/COP 5339/VenditOOP/app/src/main/res/layout/activity_inventory.xml" value="0.5" />
+        <entry key="..\:/Users/sosza/OneDrive/Documents/Projects/COP 5339/VenditOOP/app/src/main/res/layout/activity_login.xml" value="0.3663949275362319" />
+        <entry key="..\:/Users/sosza/OneDrive/Documents/Projects/COP 5339/VenditOOP/app/src/main/res/layout/activity_profile.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/sosza/OneDrive/Documents/Projects/COP 5339/VenditOOP/app/src/main/res/layout/activity_shop.xml" value="0.33" />
+        <entry key="..\:/Users/sosza/OneDrive/Documents/Projects/COP 5339/VenditOOP/app/src/main/res/layout/card.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/sosza/OneDrive/Documents/Projects/COP 5339/VenditOOP/app/src/main/res/layout/item_card.xml" value="0.5" />
+        <entry key="..\:/Users/sosza/OneDrive/Documents/Projects/COP 5339/VenditOOP/app/src/main/res/layout/profile.xml" value="0.25" />
+        <entry key="..\:/Users/sosza/OneDrive/Documents/Projects/COP 5339/VenditOOP/app/src/main/res/layout/shopping_file.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/sosza/OneDrive/Documents/Projects/COP 5339/VenditOOP/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25277777777777777" />
+      </map>
+    </option>
+  </component>
+  <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" value="$USER_HOME$/Downloads/javadoc" />
+    <option name="OPTION_INCLUDE_LIBS" value="true" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

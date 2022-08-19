@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "69815655530",
+    "project_id": "venditoop",
+    "storage_bucket": "venditoop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69815655530:android:b1c097e6bf14eb3b203e13",
+        "android_client_info": {
+          "package_name": "com.example.venditoop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69815655530-0riidcr3s8r9tej4vv7v7lnb6npkfblf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWYaQpxkV_eRB0lHQBuK8eRZIFq-BAIKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69815655530-0riidcr3s8r9tej4vv7v7lnb6npkfblf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
